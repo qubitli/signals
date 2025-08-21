@@ -1,6 +1,6 @@
 "use client"
 
-import { SignalCard } from "@/components/signals/signal-card";
+import { SignalCard } from "@/components/home/signal-card";
 import { Signal } from "@/types";
 import { Sparkles, TrendingUp, Zap, Activity, BarChart3, Timer, Target } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
